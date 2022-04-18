@@ -115,3 +115,6 @@ python manage.py runserver
 MIT
 
 **Free Software**
+
+### Авторы
+Кирилл Пугачев, Николай Евсин, Руслан Нусалов
