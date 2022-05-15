@@ -24,7 +24,7 @@
 
 Клонируйте репозиторий и перейдите в него в командной строке:
 ```sh
-git clone https://github.com/nickolaEO/api_yamdb.git
+git clone https://github.com/EscapeFromHell/api_yamdb.git
 ```
 ```sh
 cd api_yamdb
